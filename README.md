@@ -2,6 +2,8 @@
 
 A real-time multiplayer ping pong game with dynamic obstacles built using Python (FastAPI) for the backend and React for the frontend. Players can compete across different browser tabs using WebSocket communication.
 
+<img width="1791" alt="Screenshot 2025-01-06 at 2 50 26 PM" src="https://github.com/user-attachments/assets/5e0a45c6-151b-4ea2-8be0-cc3cd7d1823a" />
+
 ## Features
 
 - Real-time multiplayer gameplay
@@ -161,3 +163,5 @@ This project is open source and available under the MIT License.
 - Built with FastAPI and React
 - Inspired by classic Pong game mechanics
 - Enhanced with modern multiplayer capabilities
+
+
